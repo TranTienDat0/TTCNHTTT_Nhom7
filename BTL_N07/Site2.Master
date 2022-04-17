@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="BTL_N07.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Demo Project Nhóm 07</title>
+       <link rel="stylesheet" href="Style.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server"> </asp:ContentPlaceHolder>
+</head>
+<body>
+  
+       <form id="form1" runat="server">
+        <div class="header">
+            <div>
+                <img src="Images/logo.JPG" style="height: 100px; width: 120px;" />
+            </div>
+         
+            <div> <ul class="login">
+                   <li><a href="#"><img src="Images/gio_hang.png" height="20px" width="20px"/>Giỏ hàng</a> </li>
+                   <li><a href="DangKy.aspx"><img src="Images/dangky.JPG" height="20px" width="20px"/>Đăng ký</a> </li>
+                   <li><a href="dangnhap.aspx"><img src="Images/dangnhap.JPG" height="20px" width="20px"/>Đăng nhập</a></li>
+                   <li><a href="#"><img src="Images/search.jpg" height="20px" width="20px"/>Search</a></li>
+                  </ul>
+            </div>
+        </div>
+           <div class="bander">
+           <img src="Images/bander.JPG" width="1475px" height="200px"/>
+
+           </div>
+        <div class="content">
+            <div class="content-inner">
+                <asp:ContentPlaceHolder ID="NoiDung" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div class="sidebar">
+            <div class="sidebar-inner">
+                <h2>Sản phẩm bán chạy nhất</h2>
+
+                <img class="img-resize" src="Images/Sinhnhat1.JPG" height="100px" width="150px" />           
+            </div>
+        </div>
+    </form>
+</body>
+</html>

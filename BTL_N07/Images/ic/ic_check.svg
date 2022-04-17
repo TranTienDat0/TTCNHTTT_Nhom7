@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-ic_check">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="ic_check" clip-path="url(#clip-ic_check)">
+    <path id="Path_1" data-name="Path 1" d="M0,274.226,176.549,451.112,515.556,112.44l-48.67-48-290.337,290L48,225.891Z" transform="translate(-2 -1.443)" fill="#fff"/>
+  </g>
+</svg>

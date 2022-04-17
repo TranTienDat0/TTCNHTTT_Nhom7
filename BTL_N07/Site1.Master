@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="BTL_N07.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Demo Project Nhóm 07</title>
+       <link rel="stylesheet" href="Style.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server"> </asp:ContentPlaceHolder>
+</head>
+<body>
+  
+       <form id="form1" runat="server">
+        <div class="header">
+            <div>
+                <img src="Images/logo.JPG" style="height: 100px; width: 120px;" />
+            </div>
+
+            <div><ul class="nav">
+                <li><a href="ProductMain">Home</a></li>            
+                </ul>
+            </div>
+            <div> <ul class="login">                   
+                   <li><a href="DangKy.aspx"><img src="Images/dangky.JPG" height="20px" width="20px"/>Đăng ký</a> </li>
+                   <li><a href="dangnhap.aspx"><img src="Images/dangnhap.JPG" height="20px" width="20px"/>Đăng nhập</a></li>
+                   <li><a href="DangNhap_Admin.aspx"><img src="Images/dangnhap.JPG" height="20px" width="20px"/>Đăng xuất</a></li>
+                   <li><a href="#"><img src="Images/search.jpg" height="20px" width="20px"/>Search</a></li>
+                  </ul>
+            </div>
+        </div>
+           <div class="bander">
+           <img src="Images/bander.JPG" width="1475px" height="200px"/>
+
+           </div>
+        <div class="content">
+            <div class="content-inner">
+                <asp:ContentPlaceHolder ID="NoiDung" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div class="sidebar">
+            <div class="sidebar-inner">
+                <h2>Sản phẩm bán chạy nhất</h2>
+
+                <img class="img-resize" src="Images/Sinhnhat1.JPG" height="100px" width="150px" />
+                <h2>Danh mục sản phẩm</h2>
+                <ul>
+                    <li><a href="Listproduct.aspx">Danh sách tất cả các sản phẩm</a></li>
+                   
+                        <asp:Repeater ID="Repeater1" runat="server" DataSourceID="SqlDataSource1">
+                           <ItemTemplate>
+                               
+                             <li><a href='ListProductByCategory.aspx?MaDanhMuc=<%# Eval("MaDanhMuc") %>'><%# Eval("TenDanhMuc")%></a></li>
+                           </ItemTemplate>
+                        </asp:Repeater>
+                        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:bakeryConnectionString %>" SelectCommand="SELECT * FROM [DANHMUC_SP]"></asp:SqlDataSource>
+                  
+                </ul>
+                <h2>Lưu trữ</h2>
+                <ul>
+                    <li><a href="#">Nội dung 1</a></li>
+                    <li><a href="#">Nội dung 2</a></li>
+                </ul>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

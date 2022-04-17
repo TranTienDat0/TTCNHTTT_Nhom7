@@ -1,0 +1,158 @@
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\BTL_N07.dll.config
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\BTL_N07.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\BTL_N07.pdb
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\csc.exe
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\csc.exe.config
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\csc.rsp
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\csi.exe
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\csi.exe.config
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\csi.rsp
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.AppContext.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Collections.Immutable.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Console.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Globalization.Calendars.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.IO.Compression.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.IO.FileSystem.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Net.Http.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Net.Sockets.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Reflection.Metadata.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.ValueTuple.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Xml.XPath.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\vbc.exe
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\vbc.exe.config
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\vbc.rsp
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\VBCSCompiler.exe
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\roslyn\VBCSCompiler.exe.config
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\Antlr3.Runtime.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\Microsoft.Web.Infrastructure.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\Newtonsoft.Json.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.Helpers.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.Mvc.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.Optimization.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.Razor.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.WebPages.Deployment.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.WebPages.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.WebPages.Razor.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\WebGrease.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.Helpers.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.Mvc.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.Optimization.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.Razor.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.WebPages.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.WebPages.Deployment.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\System.Web.WebPages.Razor.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\Newtonsoft.Json.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\Antlr3.Runtime.pdb
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\obj\Debug\BTL_N07.csproj.AssemblyReference.cache
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\obj\Debug\BTL_N07.csproj.CoreCompileInputs.cache
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\obj\Debug\BTL_N07.csproj.CopyComplete
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\obj\Debug\BTL_N07.dll
+D:\Thuc tap CN HTTT\BTL_N07\BTL_N07\obj\Debug\BTL_N07.pdb
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\BTL_N07.dll.config
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\BTL_N07.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\BTL_N07.pdb
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\csc.exe
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\csc.exe.config
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\csc.rsp
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\csi.exe
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\csi.exe.config
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\csi.rsp
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.AppContext.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Collections.Immutable.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Console.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Globalization.Calendars.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.IO.Compression.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.IO.FileSystem.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Net.Http.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Net.Sockets.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Reflection.Metadata.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.ValueTuple.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Xml.XPath.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\vbc.exe
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\vbc.exe.config
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\vbc.rsp
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\VBCSCompiler.exe
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\roslyn\VBCSCompiler.exe.config
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\Antlr3.Runtime.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\Microsoft.Web.Infrastructure.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\Newtonsoft.Json.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.Helpers.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.Mvc.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.Optimization.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.Razor.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.WebPages.Deployment.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.WebPages.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.WebPages.Razor.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\WebGrease.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.Helpers.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.Mvc.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.Optimization.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.Razor.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.WebPages.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.WebPages.Deployment.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\System.Web.WebPages.Razor.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\Newtonsoft.Json.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\Antlr3.Runtime.pdb
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\obj\Debug\BTL_N07.csproj.AssemblyReference.cache
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\obj\Debug\BTL_N07.csproj.CoreCompileInputs.cache
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\obj\Debug\BTL_N07.csproj.CopyComplete
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\obj\Debug\BTL_N07.dll
+E:\TTCN HTTT\Code\BTL_N07\BTL_N07\obj\Debug\BTL_N07.pdb
